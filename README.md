@@ -29,4 +29,4 @@ A pong game developed using Processing. This project was a tryout and a learning
 <a name="showcase"></a>
 ## Showcase
 
-![alt text]()
+![alt text](https://github.com/DawidCiechowski/Pong-Game/blob/master/img/PONG.gif)
